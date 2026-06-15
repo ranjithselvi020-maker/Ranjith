@@ -1,0 +1,6 @@
+{
+  "name": "Easy Video Editor",
+  "description": "An AI-powered video editor designed for absolute beginners to create storyboards, edit visual scenes, apply moods, and polish text with zero technical knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
